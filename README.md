@@ -14,3 +14,11 @@ How it works?
 - Initially on an Amazon Large instance, it used to take 2 hours to backup 7GB unzipped (700MB zipped) MySql DB using _mysqldump_ utility and 8 hours to restore - Total **10 hours**.
 
 - With this technique it takes 10 mins to backup the same DB and 50 mins to restore - **savings of 9 hours!**
+
+# Follwing dependencies are there for dbBackup.js
+
+- Node.js
+http://nodejs.org/
+
+- MySql
+npm install mysql
