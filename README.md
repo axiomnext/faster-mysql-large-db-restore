@@ -15,10 +15,8 @@ How it works?
 
 - With this technique it takes 10 mins to backup the same DB and 50 mins to restore - **savings of 9 hours!**
 
-# Follwing dependencies are there for dbBackup.js
+## Follwing dependencies are there for dbBackup.js
 
-- Node.js
-http://nodejs.org/
+- Node.js: http://nodejs.org/
 
-- MySql
-npm install mysql
+- MySql: npm install mysql
